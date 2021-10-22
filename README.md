@@ -1,2 +1,2 @@
-#A Simple ChatBot using tkinter from python library gui  
+#A Simple ChatBot using tkinter from python library as the gui  
 # It a work in progress
